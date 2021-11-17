@@ -14,4 +14,4 @@
 
 ### the stencils should now appear in your omnigraffle workspace stencil finder!
 
-###### all stencils in this github are based on the [2020 USITT Sound Document Recomendations v3](/doc/USITT_Sound_Document_Recommendations_2020_V3.pdf)
+###### all stencils in this github are based on the 2020 USITT Sound Document Recomendations v3
