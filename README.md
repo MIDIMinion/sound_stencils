@@ -1,9 +1,9 @@
 # sound_stencils
 
-## here's a basic signal block diagram that can be drawn using some of the stencils you can find here!
+## here's a basic signal block diagram that can be drawn using some of the stencils found here!
 ![sbd display](/img/sbd_display.png)
 
-## rack rack city
+## rack rack (stencils) city
 ![racks display](/img/racks_display.png)
  
 ## easiest way to install these symbols
@@ -13,4 +13,3 @@
 4. Drag and drop your downloaded stencil files into the folder you'd like to keep the stencils in
 
 ### the stencils should now appear in your omnigraffle workspace stencil finder!
-
